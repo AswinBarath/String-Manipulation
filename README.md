@@ -2,6 +2,10 @@
 
 Problems based on the Strings
 
+## Resources:
+
+- [String Interview Questions: The Ultimate Guide - Byte-by-byte](https://www.byte-by-byte.com/strings/)
+
 ## SDE Sheet problems on Strings
 
 [Sheet Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
